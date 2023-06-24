@@ -1,0 +1,28 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Vintage Crutches 01",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "vintage_crutches_01",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/vintage_crutches_01.vmdl",
+        "Summary": "By James Ray Cock",
+        "Description": "",
+        "Public": true,
+        "ReplaceTags": "props vintage war old antique wood hospital medical"
+      }
+    }
+  }
+}

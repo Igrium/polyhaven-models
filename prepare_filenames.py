@@ -69,7 +69,7 @@ def process_file(filepath: str, prefix: str, outdir: str, force_extension = Fals
     destfile = os.path.join(outdir, newfile + ext)
     shutil.copyfile(filepath, destfile)
 
-    print(filepath + ' --> ' + destfile)
+    print(os.path.basename(filepath) + ' --> ' + os.path.basename(destfile))
     return True
 
 def string_matches(string: str, proxies: list[str]):
