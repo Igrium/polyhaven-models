@@ -7,7 +7,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "src/dry_branches_medium_01_2k.blend/textures/dry_branches_medium_01_color.jpg"
+	TextureColor "models/materials/dry_branches_medium_01_color.jpg"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
