@@ -16,7 +16,9 @@
       "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "facepunch.concrete_hs_01#17359"
+        "facepunch.concrete_hs_01#17359",
+        "facepunch.floor_grass_dirt_weed_blend_a#18756",
+        "facepunch.floor_grass_wetdirt_blend_a#18652"
       ],
       "Metadata": {}
     }
