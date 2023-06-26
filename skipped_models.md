@@ -37,3 +37,7 @@
 [Mousetrap Model • Poly Haven](https://polyhaven.com/a/mousetrap)
 
 - Ditto
+
+https://polyhaven.com/a/wicker_basket_01
+
+- The weave is implemented with geometry instead of textures, making it not game ready. It will take lots of work to fix.
