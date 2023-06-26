@@ -13,3 +13,7 @@
 [Chess Set Model • Poly Haven](https://polyhaven.com/a/chess_set)
 
 - Not sure how to handle all the little physics props
+
+[Spray Paint Bottles Model • Poly Haven](https://polyhaven.com/a/spray_paint_bottles)
+
+- How to make tintable?
