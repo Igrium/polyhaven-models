@@ -33,3 +33,7 @@
 [Lubricant Spray Model • Poly Haven](https://polyhaven.com/a/lubricant_spray)
 
 - Complicated geometry non-trivial to optimize
+
+[Mousetrap Model • Poly Haven](https://polyhaven.com/a/mousetrap)
+
+- Ditto
