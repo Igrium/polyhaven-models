@@ -38,6 +38,10 @@
 
 - Ditto
 
-https://polyhaven.com/a/wicker_basket_01
+[Wicker Basket 01 Model • Poly Haven](https://polyhaven.com/a/wicker_basket_01)
 
 - The weave is implemented with geometry instead of textures, making it not game ready. It will take lots of work to fix.
+
+[Modular Fort 01 Model • Poly Haven](https://polyhaven.com/a/modular_fort_01)
+
+- People are gonna use Hammer for this.
