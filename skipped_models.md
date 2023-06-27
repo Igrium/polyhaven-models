@@ -45,3 +45,7 @@
 [Modular Fort 01 Model • Poly Haven](https://polyhaven.com/a/modular_fort_01)
 
 - People are gonna use Hammer for this.
+
+[Rock Moss Set 02 Model • Poly Haven](https://polyhaven.com/a/rock_moss_set_02)
+
+- Rock Moss Set 01 took a long time
