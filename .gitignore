@@ -17,5 +17,6 @@ code/Properties/*
 *.los
 *.vpk
 
+*/_bakeresourcecache/*
 # Blender files
 src/*

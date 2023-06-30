@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Modular Airduct 01 - Brace Wire (8 Units)",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "modular_airduct_01_brace_wire_8",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/modular_airduct_01/modular_airduct_rectangular_01_brace_wire_8.vmdl",
+        "Summary": "",
+        "Description": "",
+        "Public": true
+      }
+    }
+  }
+}
