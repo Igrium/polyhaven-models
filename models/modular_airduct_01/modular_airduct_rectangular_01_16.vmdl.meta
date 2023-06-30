@@ -2,10 +2,10 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "Modular Airduct Rectangular 01 (16 Units)",
+      "Title": "Modular Airduct 01 (16 Units)",
       "Type": "model",
       "Org": "polyhaven",
-      "Ident": "modular_airduct_16",
+      "Ident": "modular_airduct_01_16",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,

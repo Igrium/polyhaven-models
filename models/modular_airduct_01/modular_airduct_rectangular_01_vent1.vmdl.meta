@@ -2,10 +2,10 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "Modular Airduct 01 - Transition (32 Units)",
+      "Title": "Modular Airduct 01 - Vent1",
       "Type": "model",
       "Org": "polyhaven",
-      "Ident": "modular_airduct_01_transition_32",
+      "Ident": "modular_airduc_01_vent1",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -17,7 +17,7 @@
       "PackageReferences": null,
       "EditorReferences": null,
       "Metadata": {
-        "SingleAssetSource": "models/modular_airduct_01/modular_airduct_rectangular_01_transition_single.vmdl",
+        "SingleAssetSource": "models/modular_airduct_01/modular_airduct_rectangular_01_vent1.vmdl",
         "Summary": "",
         "Description": "",
         "Public": true
