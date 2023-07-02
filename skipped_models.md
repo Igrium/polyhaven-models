@@ -46,12 +46,14 @@
 
 - People are gonna use Hammer for this.
 
-[Rock Moss Set 02 Model • Poly Haven](https://polyhaven.com/a/rock_moss_set_02)
-
-- Rock Moss Set 01 took a long time
-
 [Modular Airduct Rectangular 01 Model • Poly Haven](https://polyhaven.com/a/modular_airduct_rectangular_01) (Partial)
 
 - Asset Party wouldn't let me upload some of the assets
 
 - Waiting on fix
+
+[Treasure Chest Model • Poly Haven](https://polyhaven.com/a/treasure_chest)
+
+- Hard to optimize
+
+- 
