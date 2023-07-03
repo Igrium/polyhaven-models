@@ -56,4 +56,10 @@
 
 - Hard to optimize
 
-- 
+[Modular Wooden Pier Model • Poly Haven](https://polyhaven.com/a/modular_wooden_pier)
+
+- Hard to adjust sizes without distorting model
+
+[Pears Asian 01 Model • Poly Haven](https://polyhaven.com/a/food_pears_asian_01)
+
+- Getting stem collision to look right could be tricky
