@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "garden_hose_wall_mounted_01",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "garden_hose_wall_mounted_01",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/garden_hose_wall_mounted_01.vmdl"
+      }
+    }
+  }
+}
