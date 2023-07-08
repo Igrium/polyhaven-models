@@ -14,10 +14,6 @@
 
 - Not sure how to handle all the little physics props
 
-[Spray Paint Bottles Model • Poly Haven](https://polyhaven.com/a/spray_paint_bottles)
-
-- How to make tintable?
-
 [Ship Pinnace Model • Poly Haven](https://polyhaven.com/a/ship_pinnace)
 
 - Lots of weird bodygroup controls to manage
