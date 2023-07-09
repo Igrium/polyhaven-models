@@ -26,10 +26,6 @@
 
 - I'm fucking tired of the planter boxes
 
-[Lubricant Spray Model • Poly Haven](https://polyhaven.com/a/lubricant_spray)
-
-- Complicated geometry non-trivial to optimize
-
 [Mousetrap Model • Poly Haven](https://polyhaven.com/a/mousetrap)
 
 - Ditto
@@ -59,3 +55,7 @@
 [Pears Asian 01 Model • Poly Haven](https://polyhaven.com/a/food_pears_asian_01)
 
 - Getting stem collision to look right could be tricky
+
+[Cannon 01 Model • Poly Haven](https://polyhaven.com/a/cannon_01)
+
+- Another complex armature
