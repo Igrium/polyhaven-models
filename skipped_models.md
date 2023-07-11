@@ -28,7 +28,7 @@
 
 [Mousetrap Model • Poly Haven](https://polyhaven.com/a/mousetrap)
 
-- Ditto
+- Complex geometry hard to optimize
 
 [Wicker Basket 01 Model • Poly Haven](https://polyhaven.com/a/wicker_basket_01)
 
@@ -59,3 +59,7 @@
 [Cannon 01 Model • Poly Haven](https://polyhaven.com/a/cannon_01)
 
 - Another complex armature
+
+[Potted Plant 01 Model • Poly Haven](https://polyhaven.com/a/potted_plant_01)
+
+- How to do physics on plant?
