@@ -63,3 +63,7 @@
 [Potted Plant 01 Model • Poly Haven](https://polyhaven.com/a/potted_plant_01)
 
 - How to do physics on plant?
+
+[Sofa 01 Model • Poly Haven](https://polyhaven.com/a/Sofa_01)
+
+- WTF is this topology??
