@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Namaqualand Boulder 02",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "namaqualand_boulder_02",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/namaqualand_boulder_02.vmdl"
+      }
+    }
+  }
+}

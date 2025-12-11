@@ -1,0 +1,417 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_box"
+						game_keys = 
+						{
+							bonename = ""
+							dimensions = [ 25.577515, 50.309032, 0.739399 ]
+							offset_origin = [ 5.39949, -0.600462, 23.488506 ]
+							offset_angles = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_box"
+						game_keys = 
+						{
+							bonename = ""
+							dimensions = [ 25.577515, 50.309032, 1.012901 ]
+							offset_origin = [ 5.39949, -0.600462, 41.184124 ]
+							offset_angles = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_box"
+						game_keys = 
+						{
+							bonename = ""
+							dimensions = [ 25.577515, 1.308747, 18.900734 ]
+							offset_origin = [ 5.39949, -25.100605, 32.240204 ]
+							offset_angles = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_box"
+						game_keys = 
+						{
+							bonename = ""
+							dimensions = [ 25.577515, 1.185059, 18.900734 ]
+							offset_origin = [ 5.39949, 23.920116, 32.240204 ]
+							offset_angles = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_box"
+						game_keys = 
+						{
+							bonename = ""
+							dimensions = [ 1.198857, 50.243462, 18.900734 ]
+							offset_origin = [ -6.789837, -0.609088, 32.240204 ]
+							offset_angles = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_box"
+						game_keys = 
+						{
+							bonename = ""
+							dimensions = [ 1.097927, 38.16275, 18.461168 ]
+							offset_origin = [ 17.698977, 5.431268, 32.459984 ]
+							offset_angles = [ 0.0, 0.0, 0.0 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = ""
+							radius = 2.425224
+							point0 = [ -5.724436, -23.664417, 2.657706 ]
+							point1 = [ -5.724436, -23.664417, 2.657706 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = ""
+							radius = 2.425224
+							point0 = [ 17.7244, -23.6644, 2.65771 ]
+							point1 = [ 17.7244, -23.6644, 2.65771 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = ""
+							radius = 2.425224
+							point0 = [ -5.72444, 25.0, 2.65771 ]
+							point1 = [ -5.72444, 25.0, 2.65771 ]
+						}
+					},
+					{
+						_class = "GenericGameData"
+						game_class = "ao_proxy_capsule"
+						game_keys = 
+						{
+							bonename = ""
+							radius = 2.425224
+							point0 = [ 17.7244, 25.0, 2.65771 ]
+							point1 = [ 17.7244, 25.0, 2.65771 ]
+						}
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "coffeecart_01_cart.vmat"
+								to = "models/materials/coffee_cart_01.vmat"
+							},
+							{
+								from = "coffeecart_01_props.vmat"
+								to = "models/materials/coffee_cart_01_props.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						name = "bottom"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.39949, -0.600462, 23.488506 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 25.577515, 50.309032, 0.739399 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "top"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.39949, -0.600462, 41.184124 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 25.577515, 50.309032, 1.012901 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "left"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.39949, -25.100605, 32.240204 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 25.577515, 1.308747, 18.900734 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "right"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.39949, 23.920116, 32.240204 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 25.577515, 1.185059, 18.900734 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "back"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -6.789837, -0.609088, 32.240204 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.198857, 50.243462, 18.900734 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "front"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 17.698977, 5.431268, 32.459984 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.097927, 38.16275, 18.461168 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "pillar_backleft"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -6.733068, -25.039955, 15.572827 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.11669, 1.096626, 14.627413 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "pillar_backright"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -6.733068, 23.871716, 15.572827 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.11669, 1.095321, 14.627413 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "pillar_frontright"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 17.613234, 23.871716, 15.572827 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.132786, 1.095321, 14.627413 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "pillar_frontleft"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 17.613234, -25.077852, 15.572827 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.132786, 0.98798, 14.627413 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "grate_bottom"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.513495, -0.554688, 8.755981 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 25.332256, 50.034302, 0.993719 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "bar_left"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.431194, -25.077852, 20.55175 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 23.322117, 0.98798, 0.94608 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "bar_right"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ 5.449275, 23.871716, 20.520512 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 23.385483, 1.095321, 0.964653 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "bar_back"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_tags = "solid"
+						origin = [ -6.733068, -0.506982, 15.203051 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 1.11669, 48.395458, 0.996203 ]
+					},
+					{
+						_class = "PhysicsShapeSphere"
+						name = "wheel_backleft"
+						parent_bone = ""
+						surface_prop = "slippy_wheels"
+						collision_tags = "solid"
+						radius = 2.425224
+						center = [ -5.724436, -23.664417, 2.657706 ]
+					},
+					{
+						_class = "PhysicsShapeSphere"
+						name = "wheel_frontleft"
+						parent_bone = ""
+						surface_prop = "slippy_wheels"
+						collision_tags = "solid"
+						radius = 2.425224
+						center = [ 17.7244, -23.6644, 2.65771 ]
+					},
+					{
+						_class = "PhysicsShapeSphere"
+						name = "wheel_backright"
+						parent_bone = ""
+						surface_prop = "slippy_wheels"
+						collision_tags = "solid"
+						radius = 2.425224
+						center = [ -5.72444, 25.0, 2.65771 ]
+					},
+					{
+						_class = "PhysicsShapeSphere"
+						name = "wheel_frontright"
+						parent_bone = ""
+						surface_prop = "slippy_wheels"
+						collision_tags = "solid"
+						radius = 2.425224
+						center = [ 17.7244, 25.0, 2.65771 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "base"
+						filename = "models/coffee_cart_01.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"CoffeeCart_01_cart",
+							]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "props"
+						filename = "models/coffee_cart_01_props.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "BodyGroupList"
+				children = 
+				[
+					{
+						_class = "BodyGroup"
+						name = "cart"
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"base",
+								]
+							},
+						]
+						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
+						name = "props"
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"props",
+								]
+							},
+						]
+						hidden_in_tools = false
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}

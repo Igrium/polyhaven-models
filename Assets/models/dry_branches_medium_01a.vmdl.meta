@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "dry_branches"
+  ],
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Dry Branches Medium 01a",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "dry_branches_medium_01a",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/dry_branches_medium_01a.vmdl",
+        "Summary": "",
+        "Description": "",
+        "Public": true
+      }
+    }
+  }
+}

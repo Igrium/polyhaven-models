@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Mid Century Lounge Chair",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "mid_century_lounge_chair",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/mid_century_lounge_chair.vmdl"
+      }
+    }
+  }
+}

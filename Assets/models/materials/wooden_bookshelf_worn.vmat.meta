@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Wooden Bookshelf Worn",
+      "Type": "material",
+      "Org": "polyhaven",
+      "Ident": "wooden_bookshelf_worn1",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/materials/wooden_bookshelf_worn.vmat",
+        "Summary": "",
+        "Description": "",
+        "Public": true
+      }
+    }
+  }
+}

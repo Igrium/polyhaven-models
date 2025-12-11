@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "kloppenheim_02_puresky",
+      "Type": "material",
+      "Org": "polyhaven",
+      "Ident": "kloppenheim_02_puresky",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "materials/skybox/kloppenheim_02_puresky.vmat"
+      }
+    }
+  }
+}

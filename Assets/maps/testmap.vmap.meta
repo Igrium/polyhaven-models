@@ -1,0 +1,32 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "testmap",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "testmap",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.concrete_hs_01#17359",
+        "facepunch.floor_grass_dirt_weed_blend_a#18756",
+        "facepunch.floor_grass_wetdirt_blend_a#18652",
+        "facepunch.glass_a#19946",
+        "facepunch.glass_c#19949",
+        "facepunch.oildrumexplosive#19223",
+        "facepunch.old_bench#19224",
+        "facepunch.star_bin#19205",
+        "igrium.portal_gateway#19797",
+        "meihoff.garagebutton#26130"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/testmap.vmap"
+      }
+    }
+  }
+}
