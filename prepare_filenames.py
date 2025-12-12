@@ -39,6 +39,16 @@ AO_PROXIES = [
     "occlusion"
 ]
 
+SELFILLUM_PROXIES = [
+    "selfillum",
+    "illum"
+    "emissive",
+    "emiss",
+    "emit"
+]
+
+SELFILLUM_NAME = "_selfillum"
+
 AO_NAME = "_ao"
 
 EXTENSIONS = ['.png', '.jpg', '.jpeg', '.exr', '.tga']
@@ -62,6 +72,8 @@ def process_file(filepath: str, prefix: str, outdir: str, force_extension = Fals
         newfile = prefix + NORMAL_NAME
     elif string_matches(root, AO_PROXIES):
         newfile = prefix + AO_NAME
+    elif string_matches(root, SELFILLUM_PROXIES):
+        newfile = prefix + SELFILLUM_NAME
     else:
         print(f'Could not determine the map type for {root + ext}')
         return False
@@ -91,7 +103,7 @@ if __name__ == '__main__':
 
     i = 0
     for file in files:
-        if process_file(os.path.join(directory, file), prefix, directory): i+= i
+        if process_file(os.path.join(directory, file), prefix, directory): i+= 1
 
     print(f'Renamed {i} files.')
     

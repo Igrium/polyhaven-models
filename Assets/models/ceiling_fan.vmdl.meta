@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Ceiling Fan",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "ceiling_fan",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/ceiling_fan.vmdl"
+      }
+    }
+  }
+}

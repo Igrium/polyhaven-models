@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Electric Stove (Static)",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "electric_stove",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/electric_stove_static.vmdl"
+      }
+    }
+  }
+}
