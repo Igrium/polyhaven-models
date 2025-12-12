@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Potted Plant 04",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "potted_plant_04",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/potted_plant_04.vmdl"
+      }
+    }
+  }
+}

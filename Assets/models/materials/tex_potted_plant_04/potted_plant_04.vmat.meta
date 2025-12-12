@@ -1,0 +1,23 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Potted Plant 04",
+      "Type": "material",
+      "Org": "local",
+      "Ident": "pottedplant04",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [
+        "facepunch.v_usp#110418"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/materials/tex_potted_plant_04/potted_plant_04.vmat"
+      }
+    }
+  }
+}
