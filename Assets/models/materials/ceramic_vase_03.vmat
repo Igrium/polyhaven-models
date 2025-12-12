@@ -2,12 +2,12 @@
 
 Layer0
 {
-	shader "shaders/simple.shader_c"
+	shader "shaders/simple.shader"
 
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "models/materials/ceramic_vase_03_color.jpg"
+	TextureColor "models/materials/tex_ceramic_vase_03/ceramic_vase_03_color.jpg"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -19,15 +19,13 @@ Layer0
 	g_flMetalness "0.000"
 
 	//---- Normal ----
-	TextureNormal "src/ceramic_vase_03_2k.blend/textures/ceramic_vase_03_normal.png"
+	TextureNormal "[0.501961 0.501961 1.000000 0.000000]"
 
 	//---- Roughness ----
 	g_flRoughnessScaleFactor "1.000"
 	TextureRoughness "models/materials/ceramic_vase_03_rough.jpg"
 
 	//---- Texture Coordinates ----
-	g_nScaleTexCoordUByModelScaleAxis "0"
-	g_nScaleTexCoordVByModelScaleAxis "0"
 	g_vTexCoordOffset "[0.000 0.000]"
 	g_vTexCoordScale "[1.000 1.000]"
 	g_vTexCoordScrollSpeed "[0.000 0.000]"

@@ -1,0 +1,17 @@
+{
+  "Title": "Polyhaven Models",
+  "Type": "addon",
+  "Org": "local",
+  "Ident": "polyhaven_models",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {
+    "StartupScene": "scenes/sandbox.scene",
+    "ParentPackage": "facepunch.sandbox"
+  }
+}
