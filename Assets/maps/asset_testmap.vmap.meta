@@ -14,7 +14,8 @@
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "maps/asset_testmap.vmap"
+        "SingleAssetSource": "maps/asset_testmap.vmap",
+        "ParentPackage": "facepunch.sandbox"
       }
     }
   }
