@@ -1,11 +1,11 @@
 {
   "publish": {
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
       "Title": "Metal Trash Can Lid",
       "Type": "model",
-      "Org": "local",
-      "Ident": "metaltrashcanlid",
+      "Org": "polyhaven",
+      "Ident": "metal_trash_can_lid",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,

@@ -141,7 +141,7 @@
 						_class = "PhysicsHullFile"
 						name = "metal_trash_can_phys"
 						parent_bone = ""
-						surface_prop = "metal"
+						surface_prop = "trash_can"
 						collision_tags = "solid"
 						recenter_on_parent_bone = false
 						offset_origin = [ 0.0, 0.0, 0.0 ]

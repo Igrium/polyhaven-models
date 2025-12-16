@@ -1,10 +1,10 @@
 {
   "publish": {
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
       "Title": "Metal Trash Can",
       "Type": "model",
-      "Org": "local",
+      "Org": "polyhaven",
       "Ident": "metaltrashcan",
       "Schema": 0,
       "IncludeSourceFiles": false,

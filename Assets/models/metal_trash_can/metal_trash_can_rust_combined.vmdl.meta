@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Metal Trash Can Combined (Rust)",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "metal_trash_can_combined_rust",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/metal_trash_can/metal_trash_can_rust_combined.vmdl"
+      }
+    }
+  }
+}
