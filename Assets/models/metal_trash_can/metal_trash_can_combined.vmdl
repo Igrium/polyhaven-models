@@ -170,25 +170,8 @@
 					},
 				]
 			},
-			{
-				_class = "PhysicsBodyMarkupList"
-				children = 
-				[
-					{
-						_class = "PhysicsBodyMarkup"
-						target_body = "undefined"
-						mass_override = 162.289993
-						inertia_scale = 1.0
-						linear_damping = 0.0
-						angular_damping = 0.0
-						use_mass_center_override = false
-						mass_center_override = [ 0.0, 0.0, 0.0 ]
-						gravity_scale = 1.0
-					},
-				]
-			},
 		]
-		model_archetype = "physics_prop_model"
+		model_archetype = "default"
 		primary_associated_entity = "prop_physics"
 		anim_graph_name = ""
 		base_model_name = ""

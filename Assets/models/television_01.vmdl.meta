@@ -1,22 +1,18 @@
 {
   "publish": {
-    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "television_01",
+      "Title": "Television 01",
       "Type": "model",
       "Org": "polyhaven",
       "Ident": "television_01",
-      "Tags": null,
       "Schema": 0,
-      "HasAssets": false,
-      "AssetsPath": null,
+      "IncludeSourceFiles": false,
       "Resources": null,
-      "MenuResources": null,
-      "HasCode": false,
-      "CodePath": null,
       "PackageReferences": null,
       "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
       "Metadata": {
         "SingleAssetSource": "models/television_01.vmdl"
       }

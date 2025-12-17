@@ -81,8 +81,8 @@
 				]
 			},
 		]
-		model_archetype = ""
-		primary_associated_entity = ""
+		model_archetype = "default"
+		primary_associated_entity = "prop_physics"
 		anim_graph_name = ""
 		base_model_name = ""
 	}

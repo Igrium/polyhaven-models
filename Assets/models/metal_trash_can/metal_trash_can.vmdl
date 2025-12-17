@@ -114,26 +114,6 @@
 				]
 			},
 			{
-				_class = "GameDataList"
-				children = 
-				[
-					{
-						_class = "GenericGameData"
-						game_class = "prop_data"
-						game_keys = 
-						{
-							bakelighting = true
-							health = -1.0
-							flammable = false
-							explosive = false
-							explosive_damage = -1.0
-							explosive_radius = -1.0
-							explosive_force = -1.0
-						}
-					},
-				]
-			},
-			{
 				_class = "PhysicsShapeList"
 				children = 
 				[
@@ -164,7 +144,7 @@
 				]
 			},
 		]
-		model_archetype = "physics_prop_model"
+		model_archetype = "default"
 		primary_associated_entity = "prop_physics"
 		anim_graph_name = ""
 		base_model_name = ""

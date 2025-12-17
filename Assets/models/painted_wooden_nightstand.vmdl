@@ -591,7 +591,7 @@
 				]
 			},
 		]
-		model_archetype = "jointed_physics_model"
+		model_archetype = "default"
 		primary_associated_entity = "prop_ragdoll"
 		anim_graph_name = ""
 		base_model_name = ""

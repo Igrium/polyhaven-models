@@ -1,22 +1,18 @@
 {
   "publish": {
-    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "barrel_03",
+      "Title": "Barrel 03",
       "Type": "model",
       "Org": "polyhaven",
       "Ident": "barrel_03",
-      "Tags": null,
       "Schema": 0,
-      "HasAssets": false,
-      "AssetsPath": null,
+      "IncludeSourceFiles": false,
       "Resources": null,
-      "MenuResources": null,
-      "HasCode": false,
-      "CodePath": null,
       "PackageReferences": null,
       "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
       "Metadata": {
         "SingleAssetSource": "models/barrel_03.vmdl"
       }

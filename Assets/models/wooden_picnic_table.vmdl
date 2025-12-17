@@ -913,7 +913,7 @@
 				]
 			},
 		]
-		model_archetype = "breakable_prop_model"
+		model_archetype = "default"
 		primary_associated_entity = "prop_physics"
 		anim_graph_name = ""
 		base_model_name = ""
