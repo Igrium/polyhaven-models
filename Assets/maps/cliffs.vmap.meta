@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Cliffs",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "cliffs",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.grass_mud_blend_01a#47043",
+        "polyhaven.sunflowers#30286"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/cliffs.vmap",
+        "ParentPackage": "facepunch.sandbox"
+      }
+    }
+  }
+}
