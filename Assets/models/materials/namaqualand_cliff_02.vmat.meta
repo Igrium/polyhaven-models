@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Namaqualand Cliff 02",
+      "Type": "material",
+      "Org": "polyhaven",
+      "Ident": "namaqualand_cliff_02",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/materials/namaqualand_cliff_02.vmat"
+      }
+    }
+  }
+}
