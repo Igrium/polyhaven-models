@@ -1,0 +1,58 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/complex.shader"
+
+	//---- Detail Texture ----
+	F_DETAIL_TEXTURE 4 // Overlay and Normals
+
+	//---- Normal ----
+	F_ENABLE_NORMAL_SELF_SHADOW 1
+
+	//---- PBR ----
+	F_SPECULAR 1
+
+	//---- Ambient Occlusion ----
+	g_flAmbientOcclusionDirectDiffuse "0.000"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+	TextureAmbientOcclusion "models/nature/materials/tex_mountainside/mountainside_ao.png"
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	TextureColor "models/nature/materials/tex_mountainside/mountainside_color.jpg"
+
+	//---- Detail Texture ----
+	g_flDetailBlendFactor "1.000"
+	g_flDetailBlendToFull "0.000"
+	g_flDetailNormalStrength "1.000"
+	g_flDetailTexCoordRotation "201.649"
+	g_vDetailTexCoordOffset "[0.000 0.000]"
+	g_vDetailTexCoordScale "[6.000 6.000]"
+	TextureDetail "materials/rock/tex_rock_08/rock_08_color.png"
+	TextureDetailMask "materials/default/default_detailmask.tga"
+	TextureNormalDetail "materials/rock/tex_rock_08/rock_08_normal.png"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Metalness ----
+	g_flMetalness "0.000"
+
+	//---- Normal ----
+	g_flLightRangeForSelfShadowNormals "0.595"
+	TextureNormal "models/nature/materials/tex_mountainside/mountainside_normal.png"
+
+	//---- Roughness ----
+	g_flRoughnessScaleFactor "1.000"
+	TextureRoughness "models/nature/materials/tex_mountainside/mountainside_rough.png"
+
+	//---- Texture Coordinates ----
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+}
