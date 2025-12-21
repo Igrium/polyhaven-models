@@ -6,15 +6,21 @@
       "Type": "model",
       "Org": "polyhaven",
       "Ident": "stone_fire_pit",
+      "Tags": null,
       "Schema": 0,
-      "IncludeSourceFiles": false,
+      "HasAssets": false,
+      "AssetsPath": null,
       "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
       "PackageReferences": null,
       "EditorReferences": null,
-      "Mounts": null,
-      "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "models/nature/rock/stone_fire_pit.vmdl"
+        "SingleAssetSource": "models/stone_fire_pit.vmdl",
+        "Summary": "",
+        "Description": "",
+        "Public": true
       }
     }
   }

@@ -6,15 +6,21 @@
       "Type": "model",
       "Org": "polyhaven",
       "Ident": "ceramic_vase_03",
+      "Tags": null,
       "Schema": 0,
-      "IncludeSourceFiles": false,
+      "HasAssets": false,
+      "AssetsPath": null,
       "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
       "PackageReferences": null,
       "EditorReferences": null,
-      "Mounts": null,
-      "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "models/props_decoration/ceramic_vase_03.vmdl"
+        "SingleAssetSource": "models/ceramic_vase_03.vmdl",
+        "Summary": "",
+        "Description": "",
+        "Public": true
       }
     }
   }

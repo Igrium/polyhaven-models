@@ -2,19 +2,19 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "Round Wooden Table 01",
+      "Title": "Old Tyre",
       "Type": "model",
       "Org": "polyhaven",
-      "Ident": "round_wooden_table_01",
+      "Ident": "old_tyre",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
       "PackageReferences": null,
-      "EditorReferences": null,
+      "EditorReferences": [],
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "models/round_wooden_table_01.vmdl"
+        "SingleAssetSource": "models/props_urban/old_tyre.vmdl"
       }
     }
   }

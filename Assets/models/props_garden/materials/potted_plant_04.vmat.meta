@@ -2,10 +2,10 @@
   "publish": {
     "Enabled": false,
     "ProjectConfig": {
-      "Title": "Namaqualand Boulder 03",
-      "Type": "model",
+      "Title": "Potted Plant 04",
+      "Type": "material",
       "Org": "local",
-      "Ident": "namaqualandboulder03",
+      "Ident": "pottedplant04",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
@@ -14,7 +14,7 @@
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "models/nature/namaqualand/namaqualand_boulder_03.vmdl"
+        "SingleAssetSource": "models/props_garden/materials/potted_plant_04.vmat"
       }
     }
   }

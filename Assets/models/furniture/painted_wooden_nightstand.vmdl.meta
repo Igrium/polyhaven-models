@@ -2,19 +2,19 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "Round Wooden Table 01",
+      "Title": "Painted Wooden Nightstand",
       "Type": "model",
       "Org": "polyhaven",
-      "Ident": "round_wooden_table_01",
+      "Ident": "painted_wooden_nightstand",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
       "PackageReferences": null,
-      "EditorReferences": null,
+      "EditorReferences": [],
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "models/round_wooden_table_01.vmdl"
+        "SingleAssetSource": "models/furniture/painted_wooden_nightstand.vmdl"
       }
     }
   }

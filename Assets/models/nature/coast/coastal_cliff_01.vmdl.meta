@@ -1,16 +1,16 @@
 {
   "publish": {
-    "Enabled": true,
+    "Enabled": false,
     "ProjectConfig": {
       "Title": "Coastal Cliff 01",
       "Type": "model",
-      "Org": "polyhaven",
-      "Ident": "coastal_cliff_01",
+      "Org": "local",
+      "Ident": "coastalcliff01",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
       "PackageReferences": null,
-      "EditorReferences": null,
+      "EditorReferences": [],
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {

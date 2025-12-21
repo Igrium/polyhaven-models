@@ -2,19 +2,19 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "Round Wooden Table 01",
+      "Title": "Potted Plant 04",
       "Type": "model",
       "Org": "polyhaven",
-      "Ident": "round_wooden_table_01",
+      "Ident": "potted_plant_04",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
       "PackageReferences": null,
-      "EditorReferences": null,
+      "EditorReferences": [],
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "models/round_wooden_table_01.vmdl"
+        "SingleAssetSource": "models/props_garden/potted_plant_04.vmdl"
       }
     }
   }
