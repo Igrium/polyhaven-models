@@ -1,0 +1,28 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/foliage.shader_c"
+
+	//---- Rendering ----
+	F_ALPHA_TEST 1
+	F_RENDER_BACKFACES 1
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Material ----
+	g_flTintColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureAmbientOcclusion "[1.000000 1.000000 1.000000 0.000000]"
+	TextureBlendMask "[1.000000 1.000000 1.000000 0.000000]"
+	TextureColor "models/props_garden/materials/tex_potted_plant_02/potted_plant_02_leaves_color.jpg"
+	TextureMetalness "[0.000000 0.000000 0.000000 0.000000]"
+	TextureNormal "models/props_garden/materials/tex_potted_plant_02/potted_plant_02_leaves_normal.png"
+	TextureRoughness "models/props_garden/materials/tex_potted_plant_02/potted_plant_02_leaves_rough.jpg"
+	TextureTintMask "materials/default/default.tga"
+	TextureTranslucency "models/props_garden/materials/tex_potted_plant_02/potted_plant_02_leaves_alpha.jpg"
+
+	//---- Translucent ----
+	g_flAlphaTestReference "0.500"
+	g_flAntiAliasedEdgeStrength "1.000"
+}

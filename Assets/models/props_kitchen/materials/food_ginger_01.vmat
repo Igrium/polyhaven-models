@@ -23,7 +23,7 @@ Layer0
 
 	//---- Roughness ----
 	g_flRoughnessScaleFactor "1.000"
-	TextureRoughness "models/materials/vintage_crutches_01_rough.jpg"
+	TextureRoughness "models/props/materials/tex_vintage_crutches_01/vintage_crutches_01_rough.jpg"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
