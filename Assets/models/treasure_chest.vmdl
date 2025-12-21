@@ -34,7 +34,7 @@
 						[
 							{
 								from = "chest.vmat"
-								to = "models/materials/chest.vmat"
+								to = "models/props/materials/chest.vmat"
 							},
 						]
 						use_global_default = false

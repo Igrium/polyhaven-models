@@ -14,6 +14,9 @@ public class FileRenamer : Window
 {
 	private static Logger Log = new("FileRenamer");
 
+	[ConVar("frn_test")]
+	public static bool TestVarl { get; set; }
+	
 	public FileRenamer()
 	{
 		WindowTitle = "Hello";

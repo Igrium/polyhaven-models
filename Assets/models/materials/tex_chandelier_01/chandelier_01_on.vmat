@@ -20,7 +20,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "models/materials/chandelier_01_color.jpg"
+	TextureColor "models/decoration/materials/tex_chandelier_01/chandelier_01_color.jpg"
 	TextureTintMask "materials/default/default_mask.tga"
 
 	//---- Fade ----
@@ -30,14 +30,14 @@ Layer0
 	g_bFogEnabled "1"
 
 	//---- Metalness ----
-	TextureMetalness "models/materials/chandelier_01_metal.jpg"
+	TextureMetalness "models/decoration/materials/tex_chandelier_01/chandelier_01_metal.jpg"
 
 	//---- Normal ----
-	TextureNormal "models/materials/chandelier_01_normal.png"
+	TextureNormal "models/decoration/materials/tex_chandelier_01/chandelier_01_normal.png"
 
 	//---- Roughness ----
 	g_flRoughnessScaleFactor "1.000"
-	TextureRoughness "models/materials/chandelier_01_rough.jpg"
+	TextureRoughness "models/decoration/materials/tex_chandelier_01/chandelier_01_rough.jpg"
 
 	//---- Self Illum ----
 	g_flSelfIllumAlbedoFactor "1.000"
@@ -45,7 +45,7 @@ Layer0
 	g_flSelfIllumScale "1.000"
 	g_vSelfIllumScrollSpeed "[0.000 0.000]"
 	g_vSelfIllumTint "[1.000000 0.850980 0.686275 0.000000]"
-	TextureSelfIllumMask "models/materials/chandelier_01_selfillum.jpg"
+	TextureSelfIllumMask "models/decoration/materials/tex_chandelier_01/chandelier_01_selfillum.jpg"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"

@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Ceramic Vase 03",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "ceramic_vase_03",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/props_decoration/ceramic_vase_03.vmdl"
+      }
+    }
+  }
+}
