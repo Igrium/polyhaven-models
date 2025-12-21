@@ -19,7 +19,7 @@
 							},
 							{
 								from = "lamps_classic_chandelier_1.vmat"
-								to = "models/materials/light_off.vmat"
+								to = "materials/light_off.vmat"
 							},
 						]
 						use_global_default = false
@@ -31,8 +31,8 @@
 						remaps = 
 						[
 							{
-								from = "models/materials/light_off.vmat"
-								to = "models/materials/light_on.vmat"
+								from = "materials/light_off.vmat"
+								to = "materials/light_on.vmat"
 							},
 							{
 								from = "models/decoration/materials/chandelier_01.vmat"
