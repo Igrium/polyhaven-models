@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Concrete Road Barrier",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "concrete_road_barrier",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/props_urban/concrete_road_barrier.vmdl"
+      }
+    }
+  }
+}

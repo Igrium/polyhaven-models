@@ -39,6 +39,14 @@ AO_PROXIES = [
     "occlusion"
 ]
 
+HEIGHT_PROXIES = [
+    "height",
+    "disp",
+    "displacement"
+]
+
+HEIGHT_NAME = "_height"
+
 SELFILLUM_PROXIES = [
     "selfillum",
     "illum"
@@ -74,6 +82,8 @@ def process_file(filepath: str, prefix: str, outdir: str, force_extension = Fals
         newfile = prefix + AO_NAME
     elif string_matches(root, SELFILLUM_PROXIES):
         newfile = prefix + SELFILLUM_NAME
+    elif string_matches(root, HEIGHT_PROXIES):
+        newfile = prefix + HEIGHT_NAME
     else:
         print(f'Could not determine the map type for {root + ext}')
         return False

@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Sand Rocks Small 01",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "sand_rocks_small_01",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/nature/coast/sand_rocks_small_01.vmdl"
+      }
+    }
+  }
+}
