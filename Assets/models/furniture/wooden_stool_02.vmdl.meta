@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Wooden Stool 02",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "wooden_stool_02",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/furniture/wooden_stool_02.vmdl"
+      }
+    }
+  }
+}
