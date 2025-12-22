@@ -1,0 +1,467 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc30:version{8c2d7a91-9c42-4bf0-883a-5a3b1762d4f1} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "LODGroupList"
+				children = 
+				[
+					{
+						_class = "LODGroup"
+						switch_threshold = 0.0
+						meshes = 
+						[
+							"LOD0",
+						]
+					},
+					{
+						_class = "LODGroup"
+						switch_threshold = 50.0
+						meshes = 
+						[
+							"LOD1",
+						]
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = true
+						global_default_material = "models/furniture/materials/painted_wooden_chair_02.vmat"
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "LOD0"
+						filename = "models/furniture/painted_wooden_chair_02.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"painted_wooden_chair_02_LOD0",
+							]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "LOD1"
+						filename = "models/furniture/painted_wooden_chair_02.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"painted_wooden_chair_02_LOD1",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "BreakPieceList"
+				children = 
+				[
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_0"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_1"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_002",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_2"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_003",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_3"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_004",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_4"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_007",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_5"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_008",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_6"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_015",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_7"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/furniture/painted_wooden_chair_02_breakpieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"painted_wooden_chair_02_LOD0_pieces_016",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							bakelighting = true
+							health = 50.0
+							flammable = false
+							explosive = false
+							explosive_damage = -1.0
+							explosive_radius = -1.0
+							explosive_force = -1.0
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "painted_wooden_chair_02"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						recenter_on_parent_bone = false
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						filename = "models/furniture/painted_wooden_chair_02_phys.fbx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 26
+						import_mode = "HullPerElement"
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = 
+							[
+								"painted_wooden_chair_02_LOD1",
+							]
+						}
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						radius = 0.868649
+						point0 = [ 9.296875, 8.350174, 22.017494 ]
+						point1 = [ 9.29688, 8.35017, 0.730482 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						radius = 0.868649
+						point0 = [ 9.29688, -9.8, 22.0175 ]
+						point1 = [ 9.29688, -9.8, 0.730482 ]
+					},
+				]
+			},
+		]
+		model_archetype = "default"
+		primary_associated_entity = "prop_physics"
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}

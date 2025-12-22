@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Painted Wooden Chair 02",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "painted_wooden_chair_02",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/furniture/painted_wooden_chair_02.vmdl"
+      }
+    }
+  }
+}
