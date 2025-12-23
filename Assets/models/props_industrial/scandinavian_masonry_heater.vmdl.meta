@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Scandinavian Masonry Heater",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "scandinavian_masonry_heater",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/props_industrial/scandinavian_masonry_heater.vmdl"
+      }
+    }
+  }
+}
