@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Painted Wooden Shelves",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "painted_wooden_shelves",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/furniture/painted_wooden_shelves.vmdl"
+      }
+    }
+  }
+}
