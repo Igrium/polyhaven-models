@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Drain Cleaner",
+      "Type": "model",
+      "Org": "polyhaven",
+      "Ident": "drain_cleaner",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "models/props_household/drain_cleaner.vmdl"
+      }
+    }
+  }
+}

@@ -1,0 +1,552 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc30:version{8c2d7a91-9c42-4bf0-883a-5a3b1762d4f1} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "LODGroupList"
+				children = 
+				[
+					{
+						_class = "LODGroup"
+						switch_threshold = 0.0
+						meshes = 
+						[
+							"LOD0",
+						]
+					},
+					{
+						_class = "LODGroup"
+						switch_threshold = 4.985186
+						meshes = 
+						[
+							"LOD1",
+						]
+					},
+				]
+			},
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						note = "brokenporcelain is used in breakpieces"
+						remaps = 
+						[
+							{
+								from = "jug_01.vmat"
+								to = "models/props_decoration/materials/jug_01.vmat"
+							},
+							{
+								from = "brokenporcelain.vmat"
+								to = "materials/brokenporcelain.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = "models/props_decoration/materials/jug_01.vmat"
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "LOD0"
+						filename = "models/props_decoration/jug_01.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"jug_01_LOD0",
+							]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "LOD1"
+						filename = "models/props_decoration/jug_01.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"jug_01_LOD1",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "BreakPieceList"
+				children = 
+				[
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_0"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_1"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_001",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_2"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_010",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_3"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_002",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_4"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_003",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_5"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_004",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_6"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_005",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_7"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_006",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_8"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_007",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_9"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_008",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+					{
+						_class = "BreakPieceEmbedded"
+						name = "piece_10"
+						children = 
+						[
+							{
+								_class = "RenderMeshFile"
+								filename = "models/props_decoration/jug_01_pieces.fbx"
+								import_translation = [ 0.0, 0.0, 0.0 ]
+								import_rotation = [ 0.0, 0.0, 0.0 ]
+								import_scale = 1.0
+								align_origin_x_type = "None"
+								align_origin_y_type = "None"
+								align_origin_z_type = "None"
+								parent_bone = ""
+								import_filter = 
+								{
+									exclude_by_default = true
+									exception_list = 
+									[
+										"jug_01_piece_cell_009",
+									]
+								}
+							},
+						]
+						placement_mode = "default"
+						placement_bone = ""
+						placement_attach = ""
+						offset = [ 0.0, 0.0, 0.0 ]
+						fadetime = 20.0
+						random_spawn_chance = 1.0
+						is_essential_piece = false
+						clientonly = false
+						collision_tags = "debris"
+						manual_mode = false
+						surface_prop_override = ""
+					},
+				]
+			},
+			{
+				_class = "GameDataList"
+				children = 
+				[
+					{
+						_class = "GenericGameData"
+						game_class = "prop_data"
+						game_keys = 
+						{
+							bakelighting = true
+							health = 4.0
+							flammable = false
+							explosive = false
+							explosive_damage = -1.0
+							explosive_radius = -1.0
+							explosive_force = -1.0
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFromRender"
+						parent_bone = ""
+						surface_prop = "ceramic"
+						collision_tags = "solid"
+						faceMergeAngle = 35.310001
+						maxHullVertices = 30
+					},
+				]
+			},
+		]
+		model_archetype = "default"
+		primary_associated_entity = "prop_physics"
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
